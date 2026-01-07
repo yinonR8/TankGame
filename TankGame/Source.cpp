@@ -35,9 +35,6 @@ void PrintBoard(char** ippcBoard, int inSize);
 // Output  : The game board status after each turn and game over messages.
 //
 //---
-// Programmer : Yinon Refaeli
-// Student No : 216689711
-// Date       : 12.12.2025
 //---
 void main()
 {
